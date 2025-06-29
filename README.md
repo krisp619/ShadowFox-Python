@@ -1,4 +1,4 @@
-# 🔥 ShadowFox Python Development Internship – By @krisp619
+# 🔥 ShadowFox Python Development Internship – By Krishna Potdar (@krisp619)
 
 Welcome to my official repository for the **ShadowFox Python Development Internship**.  
 This repo includes all my tasks across Beginner, Intermediate, and Advanced levels, developed with clean code, proper structure, and a problem-solving mindset.
